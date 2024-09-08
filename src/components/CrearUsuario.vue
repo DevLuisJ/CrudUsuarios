@@ -70,7 +70,7 @@ export default {
 </script>
 <style>
     .container{
-  width: auto;
+  width: 50%;
   padding: 2px;
   margin: auto;  
   border-radius: 4px;
